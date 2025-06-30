@@ -1,0 +1,54 @@
+{
+  "fuckery_js_experience": {
+    "variants": [
+      "How would you rate your experience in Fuckery.js?",
+      "What is your proficiency level with Fuckery.js?",
+      "How experienced are you in Fuckery.js development?"
+    ],
+    "options": [
+      "One soul",
+      "A jelly bean",
+      "The imaginary unit",
+      "Kale"
+    ]
+  },
+  "fresher_experience": {
+    "variants": [
+      "How much experience do you have as a fresher?",
+      "What is your experience level as a fresh graduate?",
+      "How much experience do you bring as a fresher to our team?"
+    ],
+    "options": [
+      "1 Planck second",
+      "-1 hours",
+      "5 years of x86",
+      "Seconds since Epoch"
+    ]
+  },
+  "ai_model_integration": {
+    "variants": [
+      "Which AI model would you integrate into our line of enterprise-grade toasters?",
+      "What AI technology would you recommend for our smart toaster products?",
+      "Which artificial intelligence solution would best enhance our toaster lineup?"
+    ],
+    "options": [
+      "HotMommy_GPT",
+      "YandereBot",
+      "SubmissiveMaidYuri.ai",
+      "HAL_9000_Waifu_Edition"
+    ]
+  },
+  "emotional_damage_complexity": {
+    "variants": [
+      "What is the time complexity of your emotional damage?",
+      "How would you analyze the algorithmic complexity of your psychological trauma?",
+      "What's the Big O notation for your mental health issues?"
+    ],
+    "options": [
+      "O(0)",
+      "I don't have emotions-- I use Gentoo",
+      "O(n^n)",
+      "O(log_3(n))"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+[project]
+name = "interview-hell"
+version = "0.1.0"
+description = "Apply for Enterprise-Grade Toasters LLC. See if you can stand up to our rigorous checks."
+authors = [
+    {name = "imsasankvindamuri", email = "imsasankvindamuri@gmail.com"}
+]
+license = {file = "LICENSE"}
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "inputimeout (>=1.0.4,<2.0.0)",
+    "rich (>=14.0.0,<15.0.0)"
+]
+
+[project.scripts]
+interview_hell = "interview_hell.main:main"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+mypy = "^1.16.1"
